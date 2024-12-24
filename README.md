@@ -1,4 +1,4 @@
-# Using TAPO demo
+# ICASSP'2025 "TAPO: Task-Referenced Adaptation for Prompt Optimization"
 
 ## Try now!
 
