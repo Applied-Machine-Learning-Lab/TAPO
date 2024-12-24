@@ -1,5 +1,5 @@
-# "TAPO: Task-Referenced Adaptation for Prompt Optimization"
-ICASSP 2025
+# TAPO: Task-Referenced Adaptation for Prompt Optimization
+[ICASSP'2025] The official implementation code of TAPO
 
 ## Try now!
 
